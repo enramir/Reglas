@@ -1,8 +1,9 @@
-# Reglas
-Este repositorio es un trabajo de Inteligencia Artificial basado en reglas de decisión. En este trabajo, básicamente se trata 
-de implementar el algoritmo de aprendizaje de reglas por cobertura, implementar un algoritmo de poda de reglas para reducir el error y 
-aplicar los algoritmos de aprendizaje implementados al análisis de diversos conjuntos de datos. En particular para: 1º-Adivinar el 
-partido político (republicano o demócrata) de un congresista USA a partir de lo votado a lo largo de un año. 2º-Modelar el criterio 
-de un banco para la concesión de un préstamo.
-La implementación de ambos algoritmos está realizada en Python 3.0, en este trabajo se manejan varios conjuntos de datos, 
-que son usados para aplicar los algoritmos como por ejemplo jugar_tenis.py o lentes.py.
+# Rules
+
+This repository is an Artificial Intelligence work based on decision rules. In this work, it is basically
+implement the rule-by-coverage learning algorithm, implement a rule pruning algorithm to reduce error, and
+apply the implemented learning algorithms to the analysis of various data sets. In particular for: 1º-Guess the
+political party (republican or democrat) of a US congressman from what was voted over a year. 2nd-Model the criterion
+from a bank to grant a loan.
+The implementation of both algorithms is done in Python 3.0, in this work several data sets are handled,
+which are used to apply algorithms such as play_tennis.py or lenses.py.
